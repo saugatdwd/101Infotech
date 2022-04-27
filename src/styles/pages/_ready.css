@@ -1,0 +1,19 @@
+.ready-page-cards {
+  display: grid;
+  gap: 2rem;
+  padding: 0 2rem 2rem 2rem;
+  justify-content: center;
+  margin-top: 4rem;
+  grid-template-columns: repeat(3, auto);
+}
+
+.ready-page-title {
+  font-size: 2.6rem;
+  font-weight: bold;
+}
+
+.ready-page-bottom-button {
+  display: flex;
+  justify-content: center;
+  padding-top: 4rem;
+}

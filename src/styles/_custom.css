@@ -1,0 +1,96 @@
+.purple {
+  color: var(--purple);
+}
+
+.bg-purple {
+  background-color: var(--purple);
+}
+
+.light-purple {
+  color: var(--light-purple);
+}
+
+.bg-light-purple {
+  background-color: var(--light-purple);
+}
+
+.light-grey {
+  color: var(--light-grey);
+}
+
+.black {
+  color: var(--black);
+}
+
+.roboto {
+  font-family: var(--roboto);
+}
+
+.red-hat {
+  font-family: var(--red-hat);
+}
+
+.br-red {
+  border: 1px solid red;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.vh {
+  height: 100vh;
+}
+
+.vw {
+  width: 100vw;
+}
+
+.pt-1 {
+  padding-top: 1rem;
+}
+
+.pt-2 {
+  padding-top: 2rem;
+}
+
+.mt-1 {
+  margin-top: 1rem;
+}
+
+.mt-2 {
+  margin-top: 2rem;
+}
+
+.gap-2 {
+  gap: 2rem;
+}
+
+.d-grid {
+  display: grid;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.white {
+  color: var(--white);
+}
+
+.bg-white {
+  background-color: var(--white);
+}
+
+.border-none {
+  border: none;
+}
+
+.border-none:hover,
+.border-none:focus {
+  border: none;
+}

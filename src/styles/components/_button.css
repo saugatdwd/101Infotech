@@ -1,0 +1,25 @@
+button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border: 2px solid var(--white);
+  cursor: pointer;
+  background-color: var(--purple);
+  color: var(--white);
+  transition: 0.25s ease-in-out;
+}
+
+.primary-button {
+  border-radius: 1.25rem;
+}
+
+.secondary-button {
+  border-radius: 8px;
+}
+
+button:focus,
+button:hover {
+  background-color: var(--white);
+  border: 2px solid var(--purple);
+  color: var(--purple);
+}
